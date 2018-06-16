@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 16 Jun 2018 12:01:45 at https://countpatients.wordpress.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://countpatients.wordpress.com/ -O1 "C:\Users\user1\Desktop\Count_Patienta" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:02:06	Error: 	"Not Found" (404) at link https://countpatients.wordpress.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from 0.gravatar.com/js/gprofiles.js?ver=201824y)
+12:02:07	Error: 	"Forbidden" (403) at link https://s.skimresources.com/js/GDPR (from https://s.skimresources.com/js/725X1342.skimlinks.js)
+12:02:07	Error: 	"Not Found" (404) at link https://countpatients.wordpress.com/div.c (from https://s.skimresources.com/js/725X1342.skimlinks.js)
+12:02:07	Error: 	"Not Found" (404) at link https://countpatients.wordpress.com/g.gif (from stats.wp.com/w.js?56)
+12:02:07	Error: 	"Not Found" (404) at link https://countpatients.wordpress.com/c.gif (from stats.wp.com/w.js?56)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 44 links scanned, 36 files written (668378 bytes overall) [564420 bytes received at 24540 bytes/sec], 313968 bytes transferred using HTTP compression in 26 files, ratio 32%, 1.5 requests per connection
+(5 errors, 0 warnings, 0 messages)
